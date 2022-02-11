@@ -9,7 +9,12 @@
 
 >**BetaCalculatorMC** 
 
->"Coded" popchams and failing to skid hyperlethal's ca | Skidder because retard
+>"Coded" popchams and failing to skid hyperlethal's ca 
+>####
+>**Skidder** because retard
+
 #
+
 >**Darki** 
->"Created" koneass | Skidder because konas is just raion
+>"Created" koneass
+>**Skidder** because konas is just raion
