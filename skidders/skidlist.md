@@ -1,5 +1,5 @@
 # This list contains skidders
 
 >**Darki** 
->"Created" koneass
+>"Created" koneass |
 >Skidder bacause konas is just raion
