@@ -7,8 +7,7 @@
 
 #
 
->**BetaCalculatorMC** 
-
+>**BetaCalculatorMC**
 >"Coded" popchams and failing to skid hyperlethal's ca 
 >####
 >**Skidder** because retard
