@@ -1,4 +1,4 @@
-#Gradle Java Version Compatibility List
+# Gradle Java Version Compatibility List
 
 >**Java 8** 
 >Gradle 2.0 - 4.2 (3.0 Recommended) You need to change implementation to compile in build.gradle
