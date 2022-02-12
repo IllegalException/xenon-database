@@ -1,7 +1,7 @@
 #Gradle Java Version Compatibility List
 
 >**Java 8** 
->Gradle 2.0 - 4.2 (3.0 Recommended)
+>Gradle 2.0 - 4.2 (3.0 Recommended) you need to change implementation to compile
 
 >#
 
