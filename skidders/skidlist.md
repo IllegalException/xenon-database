@@ -18,3 +18,11 @@
 >"Created" koneass
 >####
 >**Skidder** because konas is just raion
+
+#
+
+>**Sjnez** 
+>"Created" Renocents the skidded yoink rat
+>####
+>**Skidder** OyVey/Phobos fetish, Skidded just about any client in order to make "Renosense" and got ratted by it 😂. Pasted salhack PacketEvent and event bus for one module even though his phobos base already had one 💀. (from https://github.com/master7720/anarchy-skid-list)
+
