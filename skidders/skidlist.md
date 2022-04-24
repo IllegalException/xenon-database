@@ -1,5 +1,6 @@
 # This list contains skidders
 
+
 >**AlphaArmor** 
 >"Helped" a client called mexico.club by beta
 >####
@@ -26,3 +27,11 @@
 >####
 >**Skidder** OyVey/Phobos fetish, Skidded just about any client in order to make "Renosense" and got ratted by it 😂. Pasted salhack PacketEvent and event bus for one module even though his phobos base already had one 💀. (from https://github.com/master7720/anarchy-skid-list)
 
+# Ex-Skidders
+
+>**0x22** 
+>Used Exeter as Future base, and took the GUI
+>####
+>**Ex-Skidder** because he used the old gui, but doesn't skid  anymore and is good at coding :)
+
+#
