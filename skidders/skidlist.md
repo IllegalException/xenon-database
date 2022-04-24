@@ -1,5 +1,10 @@
 # This list contains skidders
 
+>**3arthqu4ke** 
+>"made a os" and skidded temple os lol
+>####
+>**Skidder** because he skidded temple os lmfao
+#
 
 >**AlphaArmor** 
 >"Helped" a client called mexico.club by beta
