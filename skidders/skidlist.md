@@ -1,5 +1,11 @@
 # This list contains skidders
 
+>**Ionar** 
+>"Pyro, the client that isnt a exit scam nor is it a salhack paste"
+>####
+>**Skidder** because he made pyro by pasting his other client salhack and then after making money quit it ☠️
+#
+
 >**3arthqu4ke** 
 >"made a os" and skidded temple os lol
 >####
